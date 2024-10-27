@@ -1,0 +1,18 @@
+﻿Admin Offices;10;9;3;Full-Time
+Admin Offices;14;6;11;Part-Time
+Admin Offices;10;9;8;Temporary
+Executive Office;5;2;1;Full-Time
+Executive Office;1;4;3;Part-Time
+Executive Office;3;2;3;Temporary
+IT/IS;49;42;51;Full-Time
+IT/IS;49;43;42;Part-Time
+IT/IS;57;53;44;Temporary
+"Production       ";259;221;212;Full-Time
+"Production       ";219;209;216;Part-Time
+"Production       ";229;247;208;Temporary
+Sales;44;40;33;Full-Time
+Sales;30;30;32;Part-Time
+Sales;46;32;44;Temporary
+Software Engineering;9;11;12;Full-Time
+Software Engineering;15;14;16;Part-Time
+Software Engineering;13;11;14;Temporary
