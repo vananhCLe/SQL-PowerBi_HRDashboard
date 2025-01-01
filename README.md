@@ -14,8 +14,10 @@ Dieses Projekt umfasst die Analyse und Visualisierung von HR-Daten mithilfe von 
 ---
 
 ## Datensatzübersicht
+Wir werden mit einem Datensatz von Kaggle arbeiten: 
+* Employee/HR Dataset (All in One): Sie können mehr darüber lesen [here](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset)
 
-* Der Datensatz umfasst die folgenden Spalten:
+Der Datensatz umfasst die folgenden Spalten:
 * Employee ID: Eindeutige Kennung für jeden Mitarbeiter.
 * First Name: Der Vorname des Mitarbeiters.
 * Last Name: Der Nachname des Mitarbeiters.
